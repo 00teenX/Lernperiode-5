@@ -14,10 +14,10 @@ Heute habe ich am Modul 106 gearbeitet und die Aufträge 2416, 2417, 2418, 2419 
 
 ## 17.5.2024
 
-- [ ] Website Titel erstellen
-- [ ] Überschriften erstellen für den Inhalt
-- [ ] Website Titel und Überschrift design ändern
-- [ ] Links hinzufügen
+- [ ] M293 Auftrag 1701
+- [ ] M293 Auftrag 1702
+- [ ] M293 Auftrag 1703
+- [ ] M293 Auftrag 1704
       
 ✍️ Heute habe ich... (50-100 Wörter)
 
