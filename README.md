@@ -14,11 +14,20 @@ Heute habe ich am Modul 106 gearbeitet und die Aufträge 2416, 2417, 2418, 2419 
 
 ## 17.5.2024
 
-- [ ] M293 Auftrag 1701
-- [ ] M293 Auftrag 1702
-- [ ] M293 Auftrag 1703
-- [ ] M293 Auftrag 1704
+- [x] M293 Auftrag 1701
+- [x] M293 Auftrag 1702
+- [x] M293 Auftrag 1703
+- [x] M293 Auftrag 1704
       
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich am Modul 293 gearbeitet. Es geht um Webseiten und Html, Css usw. Ich habe bis jetzt erst mit den Grundlagen gearbeitet und eine kleine Webseite erstellt. Es gibt aber noch so viel mehr und ich muss das auch noch designen. Nächstes mal fange ich richtig an. Ich baue eine Webseite, die um meine Lieblingsmusikkünstler ist. (50-100 Wörter)
+
+## 17.5.2024
+
+- [ ] Khan Academy durcharbeiten
+- [ ] Website Titel erstellen mit Schriftstil, Farbe und Website hintergrund.
+- [ ] Künstler auflisten mit Fotos
+- [ ] Künstler Musik links hinzufügen, sodass man drauf klicken kann.
+
+Heute habe ich...
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
