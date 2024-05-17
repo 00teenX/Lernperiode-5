@@ -18,6 +18,7 @@ Heute habe ich am Modul 106 gearbeitet und die Aufträge 2416, 2417, 2418, 2419 
 - [ ] Überschriften erstellen für den Inhalt
 - [ ] Website Titel und Überschrift design ändern
 - [ ] Links hinzufügen
+      
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
