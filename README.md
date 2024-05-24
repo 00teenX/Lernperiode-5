@@ -23,10 +23,19 @@ Heute habe ich am Modul 293 gearbeitet. Es geht um Webseiten und Html, Css usw. 
 
 ## 17.5.2024
 
-- [ ] Khan Academy durcharbeiten
-- [ ] Website Titel erstellen mit Schriftstil, Farbe und Website hintergrund.
-- [ ] Künstler auflisten mit Fotos
+- [x] Khan Academy durcharbeiten
+- [x] Website Titel erstellen mit Schriftstil, Farbe und Website hintergrund.
+- [x] Künstler auflisten mit Fotos
 - [ ] Künstler Musik links hinzufügen, sodass man drauf klicken kann.
+
+Heute habe ich fast alle Arbeitspakete geschafft. Das mit den Links konnte ich nicht fertig machen, weil ich mehr am Design gearbeitet habe. Ich will aber noch viel ändern. Ich möchte noch das man auf den Artist, Music, Tour, Shop und Contact button drücken kann, die oben rechts sind. Die Homepage sollte auch noch ein bisschen anders aussehen. Ein anderes Design, nicht so schwarz wie jetzt. {66 Wörter}
+
+## 31.5.2024
+
+- [ ] Khan Academy durcharbeiten
+- [ ] Website Button Artist klickbar machen sodass man auf eine neue Seite gelangt.
+- [ ] Artist Seite mit dem Künstlern und Infos designen.
+- [ ] Noch die letzte Künstlergruppe hinzufügen.
 
 Heute habe ich...
 
