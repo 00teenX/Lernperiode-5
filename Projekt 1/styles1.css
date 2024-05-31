@@ -102,3 +102,20 @@ footer {
     padding: 20px;
     background-color: #111;
 }
+
+.full-screen-container {
+    position: relative; /* Allow the background image to be positioned */
+    min-height: 100vh; /* Ensure the container covers the full viewport height */
+}
+
+.full-screen-container::before {
+    content: ''; 
+    background: url('045f03747b0f7bf52c6a0d4b8064a634.png') no-repeat center center/cover;
+    opacity: 0.7; /* Adjust opacity as needed */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Place the background behind other content */
+}
