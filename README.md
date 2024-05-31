@@ -32,10 +32,20 @@ Heute habe ich fast alle Arbeitspakete geschafft. Das mit den Links konnte ich n
 
 ## 31.5.2024
 
+- [x] Khan Academy durcharbeiten
+- [x] Website Button Artist klickbar machen sodass man auf eine neue Seite gelangt.
+- [x] Artist Seite mit dem Künstlern und Infos designen.
+- [x] Noch die letzte Künstlergruppe hinzufügen.
+
+
+Heute habe ich gute Fortschritte an meiner Website gemacht. Der "Artists"-Button ist nun klickbar und führt zur neuen Artistenseite, auf der alle Künstler, inklusive Homixidegang, aufgelistet sind. Die Khan Academy Aufgaben habe ich auch weiter durchgearbeitet. Nächstes Mal werde ich den "Contact"-Button klickbar machen und designen, sowie die restlichen Seiten der Website fertigstellen. Ich sehe noch viel Verbesserungspotenzial in dieser Website. {47 Wörter}
+
+## 07.06.2024
+
 - [ ] Khan Academy durcharbeiten
-- [ ] Website Button Artist klickbar machen sodass man auf eine neue Seite gelangt.
-- [ ] Artist Seite mit dem Künstlern und Infos designen.
-- [ ] Noch die letzte Künstlergruppe hinzufügen.
+- [ ] Website Button Contact klickbar machen sodass man auf eine neue Seite gelangt.
+- [ ] Artist Seite mit den Infos erweitern.
+- [ ] Contact Seite designen.
 
 Heute habe ich...
 
