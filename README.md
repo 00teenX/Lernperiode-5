@@ -60,6 +60,14 @@ Insgesamt bin ich zufrieden mit dem, was ich heute erreicht habe. {125 Wörter}
 - [ ] Quelle Seite erstellen
 - [ ] Quelle Seite designen
 
+Heute habe ich den Footer auf allen Seiten einheitlich positioniert, was das Erscheinungsbild der Website verbessert hat. Zudem habe ich die Quelle Seite erstellt und gestaltet, sodass die Nutzer nun klar strukturierte und leicht zugängliche Informationen finden können. Nächster Schritt ist die Programmierung der Contact Seite, damit Nachrichten ankommen. Insgesamt bin ich zufrieden mit den Fortschritten und freue mich auf die nächsten Aufgaben. {65 Wörter}
+
+## 21.06.2024
+
+- [ ] Contact Seite so programmieren, dass wirklich Nachrichten ankommen können
+- [ ] Überprüfen ob der Code valid ist
+- [ ] Als eine Https Seite machen
+
 Heute habe ich...
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
