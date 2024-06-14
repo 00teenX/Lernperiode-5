@@ -14,14 +14,6 @@ body {
     min-height: 100vh;
 }
 
-.full-screen-container {
-    flex: 1; /* Stellt sicher, dass der Container den verbleibenden Platz einnimmt */
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    min-height: 100vh;
-}
-
 header {
     display: flex;
     justify-content: space-between;
@@ -64,36 +56,56 @@ nav ul li a:hover {
 }
 
 main {
-    flex: 1; /* Stellt sicher, dass der Hauptinhalt den verfügbaren Platz einnimmt */
+    flex: 1; /* Fügt flexibles Verhalten zum main-Element hinzu */
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Zentriert den Inhalt vertikal, falls gewünscht */
+}
+
+.content {
     padding: 50px 20px;
     margin-top: 80px;
+    flex: 1; /* Stellt sicher, dass die content-Sektion den verfügbaren Platz einnimmt */
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.grid-item {
+    text-align: center;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.grid-item a {
+    display: block;
+}
+
+.grid-item img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.grid-item:hover img {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    cursor: pointer;
 }
 
 footer {
     text-align: center;
     padding: 10px 0; /* Fügt ein wenig Padding hinzu */
-    background-color: transparent;
-}
-
-.full-screen-container::before {
-    content: ''; 
-    background: url('045f03747b0f7bf52c6a0d4b8064a634.png') no-repeat center center/cover;
-    opacity: 0.5;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
+    background-color: transparent; /* Fügt einen leicht anderen Hintergrund hinzu, um den Footer hervorzuheben */
 }
 
 .info {
     text-align: center;
     padding: 10px 0; /* Fügt ein wenig Padding hinzu */
-    background-color: transparent;
+    background-color: transparent; /* Setzt eine Hintergrundfarbe */
     color: white;
-    flex-shrink: 0; /* Stellt sicher, dass der Infobereich nicht schrumpft */
+    flex-shrink: 0;
 }

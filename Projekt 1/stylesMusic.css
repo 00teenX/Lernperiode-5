@@ -14,14 +14,6 @@ body {
     min-height: 100vh;
 }
 
-.full-screen-container {
-    flex: 1; /* Stellt sicher, dass der Container den verbleibenden Platz einnimmt */
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    min-height: 100vh;
-}
-
 header {
     display: flex;
     justify-content: space-between;
@@ -64,36 +56,63 @@ nav ul li a:hover {
 }
 
 main {
-    flex: 1; /* Stellt sicher, dass der Hauptinhalt den verfügbaren Platz einnimmt */
+    flex: 1;
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Zentriert den Inhalt vertikal, falls gewünscht */
+}
+
+.content {
     padding: 50px 20px;
     margin-top: 80px;
+    flex: 1;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.album-item {
+    text-align: center;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.album-item img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 10px;
+}
+
+.album-item img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+
+div li a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s;
+}
+
+div li a:hover {
+    color: #f00;
 }
 
 footer {
     text-align: center;
-    padding: 10px 0; /* Fügt ein wenig Padding hinzu */
+    padding: 10px 0;
     background-color: transparent;
-}
-
-.full-screen-container::before {
-    content: ''; 
-    background: url('045f03747b0f7bf52c6a0d4b8064a634.png') no-repeat center center/cover;
-    opacity: 0.5;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
 }
 
 .info {
     text-align: center;
-    padding: 10px 0; /* Fügt ein wenig Padding hinzu */
+    padding: 10px 0;
     background-color: transparent;
     color: white;
-    flex-shrink: 0; /* Stellt sicher, dass der Infobereich nicht schrumpft */
+    flex-shrink: 0;
 }

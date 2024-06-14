@@ -6,6 +6,7 @@ body {
     margin: 0; /* Entfernt Standardränder */
     overflow-x: hidden; /* Verhindert horizontales Scrollen */
     padding: 0 20px; /* Fügt Polsterung links und rechts hinzu */
+    min-height: 100vh;
 }
 
 .full-screen-container {
@@ -98,5 +99,14 @@ nav ul li a:hover {
 
 footer {
     text-align: center;
-    padding: 20px;
+    padding: 0px;
+    margin-top: auto;
+}
+.info {
+    text-align: center;
+    padding: 0px;
+    background-color: transparent; /* Wähle eine Hintergrundfarbe, die sich vom Footer abhebt */
+    color: white; /* Textfarbe */
+    flex-shrink: 0; /* Stellt sicher, dass der Infobereich nicht schrumpft */
+    margin-top: auto;
 }

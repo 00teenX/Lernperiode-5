@@ -14,14 +14,6 @@ body {
     min-height: 100vh;
 }
 
-.full-screen-container {
-    flex: 1; /* Stellt sicher, dass der Container den verbleibenden Platz einnimmt */
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    min-height: 100vh;
-}
-
 header {
     display: flex;
     justify-content: space-between;
@@ -64,36 +56,57 @@ nav ul li a:hover {
 }
 
 main {
-    flex: 1; /* Stellt sicher, dass der Hauptinhalt den verfügbaren Platz einnimmt */
+    flex: 1;
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Zentriert den Inhalt vertikal, falls gewünscht */
+}
+
+.content {
     padding: 50px 20px;
     margin-top: 80px;
+    flex: 1;
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-form label {
+    display: block;
+    margin-top: 10px;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #555;
+    background-color: #111;
+    color: #fff;
+}
+
+.contact-form input[type="submit"] {
+    background-color: #f00;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
 }
 
 footer {
     text-align: center;
-    padding: 10px 0; /* Fügt ein wenig Padding hinzu */
+    padding: 10px 0;
     background-color: transparent;
-}
-
-.full-screen-container::before {
-    content: ''; 
-    background: url('045f03747b0f7bf52c6a0d4b8064a634.png') no-repeat center center/cover;
-    opacity: 0.5;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
 }
 
 .info {
     text-align: center;
-    padding: 10px 0; /* Fügt ein wenig Padding hinzu */
+    padding: 10px 0;
     background-color: transparent;
     color: white;
-    flex-shrink: 0; /* Stellt sicher, dass der Infobereich nicht schrumpft */
+    flex-shrink: 0;
 }
