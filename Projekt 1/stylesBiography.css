@@ -1,0 +1,102 @@
+body {
+    background-color: #000; /* Schwarzer Hintergrund */
+    color: #fff; /* Weiße Schriftfarbe */
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0; /* Entfernt Standardränder */
+    overflow-x: hidden; /* Verhindert horizontales Scrollen */
+    padding: 0 20px; /* Fügt Polsterung links und rechts hinzu */
+}
+
+.full-screen-container {
+    position: relative;
+    min-height: 100vh; /* Deckt die gesamte Ansichtsfensterhöhe ab */
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px; /* Horizontale Polsterung */
+    position: fixed; /* Fixiert den Header oben */
+    top: 0; /* Positioniert den Header oben */
+    left: 0;
+    width: calc(100% - 40px); /* Verhindert horizontales Scrollen */
+    background-color: #000; /* Schwarzer Hintergrund für Header */
+    height: 60px; /* Höhe des Headers */
+    z-index: 1000; /* Stellt sicher, dass der Header oben ist */
+}
+
+.logo img {
+    width: 150px; /* Breite des Logos */
+    height: auto; /* Behält das Seitenverhältnis bei */
+    margin-top: 5px; /* Optional: kleiner oberer Rand */
+}
+
+nav {
+    margin-left: 10px; /* Leichter linker Rand, um den Nav-Bereich zu verschieben */
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li:first-child {
+    margin-left: 0; /* Entfernt den linken Rand für das erste Element */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 8px 12px;
+    background-color: #000; /* Schwarzer Hintergrund für Listenelemente */
+    border-radius: 5px; /* Abgerundete Ecken */
+    transition: color 0.3s;
+    white-space: nowrap; /* Verhindert Textumbruch */
+    display: inline-block; /* Stellt die richtige Größe sicher */
+}
+
+nav ul li a:hover {
+    color: #f00; /* Hover-Farbe */
+}
+
+.content {
+    padding: 50px 20px;
+    margin: 80px auto 0; /* Oberer Rand, um Platz für den fixierten Header zu schaffen */
+    max-width: 800px; /* Maximale Breite für den Inhalt */
+}
+
+.content h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-align: center; /* Zentriert die Überschrift */
+}
+
+.content img {
+    width: 100%;
+    max-width: 400px; /* Begrenzte Bildbreite */
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: block; /* Verhindert zusätzlichen Abstand unter Bildern */
+    margin: 0 auto 20px; /* Zentriert das Bild */
+}
+
+.content p {
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+    padding: 0 20px; /* Polsterung, um Abstand zu den Rändern hinzuzufügen */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}

@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    line-height: 1.6;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px; /* Entfernt das vertikale Padding */
+    position: fixed; /* Fixiert den Header an der Oberseite der Seite */
+    top: 0; /* Positioniert den Header ganz oben */
+    left: 0;
+    width: 100%;
+    background-color: transparent; /* Macht den Header-Hintergrund transparent */
+    height: 60px; /* Setzt die Höhe des Headers */
+}
+
+.logo img {
+    width: 150px; /* Setzt eine größere Breite für das Logo */
+    height: auto; /* Behält das Seitenverhältnis bei */
+    margin-top: 5px; /* Optional: Fügt oben einen kleinen Abstand hinzu, falls notwendig */
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+    background-color: #000; /* Fügt jedem Listenelement einen schwarzen Hintergrund hinzu */
+    padding: 8px 12px; /* Fügt Padding für eine bessere visuelle Erscheinung hinzu */
+    border-radius: 5px; /* Optionale: Abgerundete Ecken */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: #f00;
+}
+
+.content {
+    padding: 50px 20px;
+    margin-top: 80px; /* Fügt einen oberen Rand hinzu, um Platz für den fixierten Header zu schaffen */
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: transparent;
+}
+
+.full-screen-container {
+    position: relative; /* Ermöglicht die Positionierung des Hintergrundbildes */
+    min-height: 100vh; /* Stellt sicher, dass der Container die gesamte Viewport-Höhe abdeckt */
+}
+
+.full-screen-container::before {
+    content: ''; 
+    background: url('045f03747b0f7bf52c6a0d4b8064a634.png') no-repeat center center/cover;
+    opacity: 0.5; /* Passt die Opazität nach Bedarf an */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Platziert den Hintergrund hinter anderem Inhalt */
+}
+
+.info {
+    text-align: center;
+    padding: 20px;
+    background-color: transparent; /* Wähle eine Hintergrundfarbe, die sich vom Footer abhebt */
+    color: white; /* Textfarbe */
+    flex-shrink: 0; /* Stellt sicher, dass der Infobereich nicht schrumpft */
+}
