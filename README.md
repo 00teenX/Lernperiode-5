@@ -42,10 +42,23 @@ Heute habe ich gute Fortschritte an meiner Website gemacht. Der "Artists"-Button
 
 ## 07.06.2024
 
-- [ ] Khan Academy durcharbeiten
-- [ ] Website Button Contact klickbar machen sodass man auf eine neue Seite gelangt.
-- [ ] Artist Seite mit den Infos erweitern.
-- [ ] Contact Seite designen.
+- [x] Khan Academy durcharbeiten
+- [x] Website Button Contact klickbar machen sodass man auf eine neue Seite gelangt.
+- [x] Artist Seite mit den Infos erweitern.
+- [x] Contact Seite designen.
+
+Heute habe ich einige wichtige Aufgaben erledigt, die meine Website weiter voranbringen. Der Contact Button ist nun klickbar und führt auf eine neue Seite. Es war befriedigend zu sehen, wie diese Funktionalität nach meiner Arbeit einwandfrei funktioniert. Des Weiteren habe ich die Contact Seite designed. Dabei habe ich darauf geachtet, ein passendes Design zu wählen. Es war wichtig, dass die Seite nicht nur funktional, sondern auch ästhetisch ansprechend ist.
+
+Ein weiterer Fortschritt war die Erweiterung der Artist Seite mit zusätzlichen Informationen. Diese Erweiterung trägt dazu bei, den Künstler besser darzustellen und den Besuchern der Website umfassendere Informationen zu bieten. Hierbei habe ich darauf geachtet, dass die neuen Inhalte gut strukturiert und leicht lesbar sind.
+
+Insgesamt bin ich zufrieden mit dem, was ich heute erreicht habe. {125 Wörter}
+
+## 14.06.2024
+
+- [ ] Contact Seite so programmieren, dass wirklich Nachrichten ankommen können
+- [ ] Footer auf allen Seiten ganz unten stellen (im Moment ist es überall ein bisschen anders.
+- [ ] Quelle Seite erstellen
+- [ ] Quelle Seite designen
 
 Heute habe ich...
 
