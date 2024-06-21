@@ -1,3 +1,4 @@
+/* Allgemeine Stile */
 * {
     margin: 0;
     padding: 0;
@@ -15,7 +16,7 @@ body {
 }
 
 .full-screen-container {
-    flex: 1; /* Stellt sicher, dass der Container den verbleibenden Platz einnimmt */
+    flex: 1;
     display: flex;
     flex-direction: column;
     position: relative;
@@ -33,6 +34,7 @@ header {
     width: 100%;
     background-color: transparent;
     height: 60px;
+    z-index: 1000; /* Stellt sicher, dass der Header oben ist */
 }
 
 .logo img {
@@ -44,6 +46,8 @@ header {
 nav ul {
     list-style: none;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
 }
 
 nav ul li {
@@ -64,23 +68,24 @@ nav ul li a:hover {
 }
 
 main {
-    flex: 1; /* Stellt sicher, dass der Hauptinhalt den verfügbaren Platz einnimmt */
+    flex: 1;
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Zentriert den Inhalt vertikal, falls gewünscht */
+    justify-content: center;
     padding: 50px 20px;
     margin-top: 80px;
+    text-align: center;
 }
 
 footer {
     text-align: center;
-    padding: 10px 0; /* Fügt ein wenig Padding hinzu */
+    padding: 10px 0;
     background-color: transparent;
 }
 
 .full-screen-container::before {
     content: ''; 
-    background: url('045f03747b0f7bf52c6a0d4b8064a634.png') no-repeat center center/cover;
+    background: url('opium_hintergrund.png') no-repeat center center/cover;
     opacity: 0.5;
     position: absolute;
     top: 0;
@@ -92,8 +97,57 @@ footer {
 
 .info {
     text-align: center;
-    padding: 10px 0; /* Fügt ein wenig Padding hinzu */
+    padding: 10px 0;
     background-color: transparent;
     color: white;
-    flex-shrink: 0; /* Stellt sicher, dass der Infobereich nicht schrumpft */
+    flex-shrink: 0;
+}
+
+/* Media Queries für responsive Design */
+@media (max-width: 768px) {
+    header {
+        padding: 10px;
+    }
+
+    nav ul {
+        justify-content: center;
+    }
+
+    nav ul li {
+        margin: 5px;
+        padding: 5px 10px;
+    }
+
+    .logo img {
+        width: 120px;
+    }
+
+    main {
+        padding: 20px 10px;
+        margin-top: 100px;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 5px;
+    }
+
+    nav ul {
+        justify-content: center;
+    }
+
+    nav ul li {
+        margin: 5px;
+        padding: 5px;
+    }
+
+    .logo img {
+        width: 100px;
+    }
+
+    main {
+        padding: 10px 5px;
+        margin-top: 80px;
+    }
 }
