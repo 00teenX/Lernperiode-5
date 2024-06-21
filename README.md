@@ -56,18 +56,25 @@ Insgesamt bin ich zufrieden mit dem, was ich heute erreicht habe. {125 Wörter}
 ## 14.06.2024
 
 - [ ] Contact Seite so programmieren, dass wirklich Nachrichten ankommen können
-- [ ] Footer auf allen Seiten ganz unten stellen (im Moment ist es überall ein bisschen anders.
-- [ ] Quelle Seite erstellen
-- [ ] Quelle Seite designen
+- [x] Footer auf allen Seiten ganz unten stellen (im Moment ist es überall ein bisschen anders.
+- [x] Quelle Seite erstellen
+- [x] Quelle Seite designen
 
 Heute habe ich den Footer auf allen Seiten einheitlich positioniert, was das Erscheinungsbild der Website verbessert hat. Zudem habe ich die Quelle Seite erstellt und gestaltet, sodass die Nutzer nun klar strukturierte und leicht zugängliche Informationen finden können. Nächster Schritt ist die Programmierung der Contact Seite, damit Nachrichten ankommen. Insgesamt bin ich zufrieden mit den Fortschritten und freue mich auf die nächsten Aufgaben. {65 Wörter}
 
 ## 21.06.2024
 
-- [ ] Sources Seite ertsellen
-- [ ] Sources Seite designen
-- [ ] Überprüfen ob der Code valid ist
+- [x] Sources Seite ertsellen
+- [x] Sources Seite designen
+- [x] Überprüfen ob der Code valid ist
 - [ ] Als eine Https Seite machen
+
+Heute habe ich grosse Fortschritte bei der Erstellung und Gestaltung der Sources-Seite gemacht. Die Seite wurde erfolgreich entworfen und der Code wurde gründlich auf Validität überprüft. Trotz dieser Erfolge konnte ich die Seite noch nicht als HTTPS-Seite konfigurieren. Insgesamt bin ich mit den erzielten Ergebnissen zufrieden, jedoch bleibt die Aufgabe der HTTPS-Umstellung für einen späteren Zeitpunkt offen. Die heutigen Aufgaben haben meine Fähigkeiten in der Webentwicklung weiter gefestigt und ich freue mich darauf, die verbleibenden Schritte abzuschliessen. {88 Wörter}
+
+## 28.06.2024
+
+- [ ] Als eine Https Seite machen
+- [ ] Nochmal testen ob alles einwandfrei Funktioniert
 
 Heute habe ich...
 
