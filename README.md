@@ -64,7 +64,8 @@ Heute habe ich den Footer auf allen Seiten einheitlich positioniert, was das Ers
 
 ## 21.06.2024
 
-- [ ] Contact Seite so programmieren, dass wirklich Nachrichten ankommen können
+- [ ] Sources Seite ertsellen
+- [ ] Sources Seite designen
 - [ ] Überprüfen ob der Code valid ist
 - [ ] Als eine Https Seite machen
 
