@@ -69,13 +69,15 @@ Heute habe ich den Footer auf allen Seiten einheitlich positioniert, was das Ers
 - [x] Überprüfen ob der Code valid ist
 - [ ] Als eine Https Seite machen
 
-Heute habe ich grosse Fortschritte bei der Erstellung und Gestaltung der Sources-Seite gemacht. Die Seite wurde erfolgreich entworfen und der Code wurde gründlich auf Validität überprüft. Trotz dieser Erfolge konnte ich die Seite noch nicht als HTTPS-Seite konfigurieren. Insgesamt bin ich mit den erzielten Ergebnissen zufrieden, jedoch bleibt die Aufgabe der HTTPS-Umstellung für einen späteren Zeitpunkt offen. Die heutigen Aufgaben haben meine Fähigkeiten in der Webentwicklung weiter gefestigt und ich freue mich darauf, die verbleibenden Schritte abzuschliessen. {88 Wörter}
+Heute habe ich grosse Fortschritte bei der Erstellung und Gestaltung der Sources-Seite gemacht. Die Seite wurde erfolgreich entworfen und der Code wurde gründlich auf Validität überprüft. Trotz dieser Erfolge konnte ich die Seite noch nicht als HTTPS-Seite konfigurieren. Insgesamt bin ich mit den erzielten Ergebnissen zufrieden. Die heutigen Aufgaben haben meine Fähigkeiten in der Webentwicklung weiter gefestigt und ich freue mich darauf, die verbleibenden Schritte abzuschliessen. {82 Wörter}
 
 ## 28.06.2024
 
-- [ ] Als eine Https Seite machen
-- [ ] Nochmal testen ob alles einwandfrei Funktioniert
+- [x] Als eine Https Seite machen
+- [x] Nochmal testen ob alles einwandfrei Funktioniert
 
-Heute habe ich...
+Heute habe ich festgestellt, dass die Seite bereits das HTTPS-Protokoll verwendet. Nach gründlichen Tests musste ich einige Anpassungen am CSS-Code vornehmen, da dieser nicht valide war. Die Ladezeiten der Seite sind mit 0,4 Sekunden ausgezeichnet. Alle Hyperlinks funktionieren einwandfrei, und die Webseite ist vollständig responsiv und benutzerfreundlich. {47 Wörter}
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+# Fertiges Projekt
+
+
