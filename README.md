@@ -136,5 +136,8 @@ Insgesamt war die Lernperiode-5 eine wertvolle Erfahrung, die meine technischen 
 systematisch und diszipliniert anzugehen. Für die Zukunft nehme ich mir vor, weiterhin an meiner Arbeitsweise zu feilen und mich kontinuierlich in der 
 Webentwicklung weiterzubilden.
 
+# Jahresreflexion
+
+
 
 
