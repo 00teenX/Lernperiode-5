@@ -113,5 +113,28 @@ Homixidegang. Jede Künstlerseite enthält detaillierte Biografien und die neues
 Musikveröffentlichungen mit direkten Links zum Anhören. Das Design der Webseite ist benutzerfreundlich und für verschiedene Geräte optimiert, was eine 
 einfache Navigation ermöglicht. {63 Wörter}
 
+# Selbstreflexion
+
+Während der Lernperiode-5 habe ich mich intensiv mit meinem Projekt beschäftigt, das die Entwicklung einer Fan-Webseite für das Label Opium umfasste. Zu 
+Beginn des Projekts war mein Ziel, das Modul 106 abzuschliessen, was mir rechtzeitig gelang. Ich habe mich dafür entschieden, meine Webentwicklungsfähigkeiten 
+zu vertiefen und gleichzeitig meine Disziplin und Motivation zu stärken.
+
+In den ersten Wochen konzentrierte ich mich auf die Grundlagenarbeit für Module wie 106 und 293, wobei ich sowohl technische Herausforderungen als auch 
+Designaspekte in Angriff nahm. Die Gestaltung der “Artists” Seite stellte ebenfalls eine grosse Herausforderung dar, insbesondere die Animation der Kästchen. 
+Hier hatte ich Schwierigkeiten, die Animationen so umzusetzen, wie ich es mir vorgestellt hatte. Auch die Anpassung an verschiedene Bildschirmgrössen 
+gestaltete sich schwierig und erforderte viel experimentieren, um eine optimale Darstellung zu erreichen. 
+
+Mit der Zeit verbesserte sich meine Fähigkeit, komplexe Aufgaben zu bewältigen, wie die Gestaltung und Programmierung der “Artists” seite sowie die 
+Validierung des Codes für die Quellenangaben. Jeder Schritt brachte neue Einsichten und ermöglichte es mir, meine Fähigkeiten in HTML, CSS und Webdesign zu 
+erweitern.
+
+In der abschliessenden Phase meines Projekts habe ich den Fokus auf die Feinabstimmung gelegt, wie die einheitliche Platzierung des Footers und die 
+Endkontrolle aller Hyperlinks und Seitenfunktionen. Diese Phase war entscheidend, um sicherzustellen, dass die Webseite professionell und fehlerfrei 
+präsentiert wird.
+
+Insgesamt war die Lernperiode-5 eine wertvolle Erfahrung, die meine technischen Fähigkeiten verbessert und mir gezeigt hat, wie wichtig es ist, ein Projekt 
+systematisch und diszipliniert anzugehen. Für die Zukunft nehme ich mir vor, weiterhin an meiner Arbeitsweise zu feilen und mich kontinuierlich in der 
+Webentwicklung weiterzubilden.
+
 
 
