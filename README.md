@@ -76,7 +76,7 @@ Heute habe ich grosse Fortschritte bei der Erstellung und Gestaltung der Sources
 - [x] Als eine Https Seite machen
 - [x] Nochmal testen ob alles einwandfrei Funktioniert
 
-Heute habe ich festgestellt, dass die Seite bereits das HTTPS-Protokoll verwendet. Nach gründlichen Tests musste ich einige Anpassungen am CSS-Code vornehmen, da dieser nicht valide war. Die Ladezeiten der Seite sind mit 0,4 Sekunden ausgezeichnet. Alle Hyperlinks funktionieren einwandfrei, und die Webseite ist vollständig responsiv und benutzerfreundlich. {47 Wörter}
+Heute habe ich festgestellt, dass die Seite bereits das HTTPS-Protokoll verwendet. Nach gründlichen Tests musste ich einige Anpassungen am CSS-Code vornehmen, da dieser nicht valide war. Die Ladezeiten der Seite sind mit 0,4 Sekunden ausgezeichnet. Alle Hyperlinks funktionieren einwandfrei, und die Webseite ist vollständig responsiv und benutzerfreundlich. Das ist der Link zur Seite: https://hulajerjon-m293-opium.netlify.app {53 Wörter}
 
 # Fertiges Projekt
 
