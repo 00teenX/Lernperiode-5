@@ -82,5 +82,7 @@ Heute habe ich festgestellt, dass die Seite bereits das HTTPS-Protokoll verwende
 
 ![image](https://github.com/00teenX/Lernperiode-5/assets/142606745/ba3ae915-aa63-4a75-82f8-854e29cd7489)
 ![image](https://github.com/00teenX/Lernperiode-5/assets/142606745/3e0941be-69ef-4ab2-a383-86f04471b717)
+![trim 31807CEA-4D91-4E6F-8EB7-02803B1E5EB9](https://github.com/00teenX/Lernperiode-5/assets/142606745/733f1d63-45a4-4f09-899f-5ee300251444)
+
 
 
