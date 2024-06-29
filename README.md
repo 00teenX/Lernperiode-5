@@ -138,6 +138,76 @@ Webentwicklung weiterzubilden.
 
 # Jahresreflexion
 
+## Selbstreflexion über das Jahr
 
+In diesem Jahr habe ich zahlreiche Erfahrungen gesammelt und viele neue Fähigkeiten erlernt. Während des gesamten Jahres habe ich an verschiedenen Modulen und 
+Projekten gearbeitet, die meine Kenntnisse und Fähigkeiten sowohl in der Programmierung als auch in der Organisation und Planung erweitert haben.
+
+### Lernperiode-1:
+
+#### Herausforderungen und Erkenntnisse:
+Zu Beginn des Jahres war es eine Herausforderung für mich, realistische Ziele zu setzen und meine Arbeitsweise zu organisieren. Ich habe oft zu viele Aufgaben 
+auf einmal übernommen und musste lernen, dass es wichtig ist, sich nicht zu überschätzen. Dies zeigte sich deutlich in meiner ersten Grob-Planung vom 
+25.08.2023 bis 29.09.2023, wo ich meine Arbeitspakete oft nicht vollständig abschliessen konnte. Ein Beispiel ist der 01.09.2023, an dem ich feststellen 
+musste, dass ich meine Aufgaben nicht komplett erledigen konnte, weil ich mir zu viel vorgenommen hatte. Diese Erfahrung hat mich gelehrt, realistischere 
+Ziele zu setzen und mich besser zu organisieren.
+
+#### Erfolge und Fortschritte:
+Im Laufe der ersten Lernperiode konnte ich meine Arbeitsweise deutlich verbessern. Am 15.09.2023 gelang es mir, mehr Arbeitspakete erfolgreich abzuschliessen 
+und schneller zu arbeiten. Besonders stolz bin ich darauf, dass ich trotz Schwierigkeiten, vor allem im Modul 319, kontinuierlich Fortschritte gemacht habe 
+und entschlossen war, mich zu verbessern.
+
+### Lernperiode-2:
+
+#### Herausforderungen und Erkenntnisse:
+In der zweiten Lernperiode (20.10.2023 - 22.12.2023) konzentrierte ich mich auf die Entwicklung eines Marchzinsrechners. Dabei stiess ich auf verschiedene 
+Herausforderungen, wie die Integration von APIs und die Anwendung von Windows Forms. Diese Aufgaben erforderten detaillierte Planung und oft auch das 
+Überwinden technischer Schwierigkeiten.
+
+#### Erfolge und Fortschritte:
+Trotz der Schwierigkeiten war diese Phase äusserst produktiv. Ich konnte den Marchzinsrechner erfolgreich entwickeln und meine Kenntnisse in der 
+Programmierung sowie im Umgang mit APIs und Windows Forms vertiefen. Besonders stolz bin ich darauf, dass ich es schaffte, den API-Zinssatz korrekt in meine 
+Anwendung zu integrieren und die Dokumentation umfassend zu erstellen. Dies zeigte mir, wie wichtig es ist, kontinuierlich zu lernen und sich neuen 
+Herausforderungen zu stellen.
+
+### Lernperiode-3:
+
+#### Herausforderungen und Erkenntnisse:
+In der dritten Lernperiode (12.01. bis 23.02.2024) arbeitete ich an einem Notenrechner. Ein wesentliches Problem war die korrekte Verarbeitung von Eingaben 
+mit Dezimalzahlen. Hier musste ich lernen, Eingabefehler zu handhaben und sicherzustellen, dass das Programm nur mit gültigen Daten arbeitet. Dies brachte mir 
+wertvolle Erkenntnisse über Benutzerfreundlichkeit und Fehlerbehandlung in Softwareprojekten.
+
+#### Erfolge und Fortschritte:
+Die erfolgreiche Entwicklung des Notenrechners und die Implementierung von Fehlermeldungen, wenn nicht genügend Noten eingegeben wurden, waren bedeutende 
+Erfolge. Ich habe gelernt, wie wichtig es ist, die Benutzerfreundlichkeit und die Robustheit meiner Anwendungen zu gewährleisten.
+
+### Lernperiode-4:
+
+#### Herausforderungen und Erkenntnisse:
+In der vierten Lernperiode (23.02 bis 05.04.2024) plante ich ein komplexeres Projekt: eine Fussballdatenbank mit einer benutzerfreundlichen GUI. Die grösste 
+Herausforderung war die Verbindung von SQL und Visual Studio sowie die Sicherstellung, dass alle Daten korrekt in die Datenbank eingetragen wurden. Hier 
+lernte ich, dass eine gründliche Vorbereitung und Planung entscheidend sind, um solch komplexe Projekte erfolgreich umzusetzen.
+
+#### Erfolge und Fortschritte:
+Obwohl ich mit technischen Problemen kämpfte und das Projekt nicht vollständig abschliessen konnte, habe ich dennoch wertvolle Kenntnisse über Datenbanken und 
+die Integration von SQL in Visual Studio gewonnen. Diese Erfahrungen haben meine Fähigkeiten im Umgang mit Datenbanken erheblich verbessert und mir gezeigt, 
+wie wichtig es ist, bei technischen Schwierigkeiten geduldig und hartnäckig zu bleiben.
+
+### Lernperiode-5:
+
+#### Herausforderungen und Erkenntnisse:
+In der letzten Lernperiode (03.05 bis 25.06.2024) konzentrierte ich mich darauf, mein Modul 106 erfolgreich abzuschliessen und an Webseitenentwicklung zu 
+arbeiten. Besonders herausfordernd war die Gestaltung und Implementierung von meiner Webseite mit HTML und CSS.
+
+#### Erfolge und Fortschritte:
+Ich konnte meine Kenntnisse in der Webentwicklung erweitern und eine Webseite erstellen, die meine Lieblingsmusikkünstler präsentiert. Diese Phase hat mir 
+gezeigt, wie vielfältig und kreativ die Arbeit in der Informatik sein kann und dass ich in der Lage bin, komplexe Projekte erfolgreich abzuschliessen.
+
+### Zusammenfassung und Ausblick:
+
+Insgesamt war dieses Jahr eine wertvolle Lernerfahrung, die mich in meiner persönlichen und schulischen Entwicklung vorangebracht hat. Ich habe gelernt, meine 
+Ziele realistischer zu setzen, meine Arbeitsweise zu organisieren und technische Herausforderungen zu bewältigen. Trotz einiger Schwierigkeiten bin ich stolz 
+auf das, was ich erreicht habe, und freue mich darauf, diese Erkenntnisse in zukünftigen Projekten anzuwenden. Ich bin optimistisch, dass ich mit Disziplin, 
+Motivation und kontinuierlichem Lernen meine Ziele weiterhin erfolgreich erreichen werde.
 
 
